@@ -1,5 +1,5 @@
 streanlit
-matplotlib
+matplotlib.pyplot
 networkx
 numpy
 sympy
