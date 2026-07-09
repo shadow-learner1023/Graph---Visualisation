@@ -1,0 +1,5 @@
+streanlit
+matplotlib
+networkx
+numpy
+sympy
