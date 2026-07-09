@@ -3,3 +3,5 @@ matplotlib.pyplot
 numpy
 sympy
 networkx
+pygments==2.14.0
+rich==12.3.1
